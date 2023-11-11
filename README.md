@@ -4,7 +4,7 @@ This package provides dynamodb storage adapter for Telegraf v4.12+ sessions.
 
 ## DynamoDB
 
-Install the telegraf DynamoDB driver.
+Install the official DynamoDB driver alongside this module.
 
 ```shell
 npm i @icntower/telegraf-session-dynamodb @aws-sdk/client-dynamodb
