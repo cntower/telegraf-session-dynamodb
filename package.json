@@ -1,7 +1,7 @@
 {
   "name": "@icntower/telegraf-session-dynamodb",
-  "version": "0.0.2",
-  "description": "Session dynamodb store adapters for Telegraf",
+  "version": "0.0.3",
+  "description": "Session dynamodb store adapter for Telegraf",
   "main": "./dynamodb.js",
   "homepage": "https://github.com/cntower/telegraf-session-dynamodb",
   "repository": {
@@ -37,11 +37,6 @@
   },
   "peerDependencies": {
     "@aws-sdk/client-dynamodb": "^3.449.0"
-  },
-  "peerDependenciesMeta": {
-    "@aws-sdk/client-dynamodb": {
-      "optional": true
-    }
   },
   "devDependencies": {
     "@aws-sdk/client-dynamodb": "^3.449.0",
