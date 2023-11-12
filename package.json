@@ -20,7 +20,8 @@
     "telegram",
     "bot",
     "session",
-    "dynamodb"
+    "dynamodb",
+    "serverless"
   ],
   "author": "Stanislav Baturin",
   "license": "MIT",
