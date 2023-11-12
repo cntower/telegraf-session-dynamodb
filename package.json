@@ -1,6 +1,6 @@
 {
   "name": "@icntower/telegraf-session-dynamodb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Session dynamodb store adapters for Telegraf",
   "main": "./dynamodb.js",
   "homepage": "https://github.com/cntower/telegraf-session-dynamodb",
